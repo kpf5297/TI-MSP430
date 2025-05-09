@@ -2,6 +2,32 @@
 
 Small Project with TI's MSP430 MCU
 
+## Table of Contents
+
+- [TI-MSP430](#ti-msp430)
+  - [Table of Contents](#table-of-contents)
+  - [Links](#links)
+  - [01 - IDE Setup](#01---ide-setup)
+  - [02 - GPIO and External Interrupts](#02---gpio-and-external-interrupts)
+  - [03 - UART Polling and Interrupts](#03---uart-polling-and-interrupts)
+  - [04 - ADC Data Acquisition](#04---adc-data-acquisition)
+  - [05 - Timer Operations (Including PWM)](#05---timer-operations-including-pwm)
+  - [06 - SPI Communication](#06---spi-communication)
+  - [07 - I2C Communication](#07---i2c-communication)
+  - [08 - Introduction to FreeRTOS](#08---introduction-to-freertos)
+
+## Links
+
+- [MSP430FR2355 LaunchPad](https://www.ti.com/tool/MSP-EXP430FR2355)
+- [MSP430FR2355 Datasheet](https://www.ti.com/lit/ds/symlink/msp430fr2355.pdf)
+- [MSP430FR2355 User Guide](https://www.ti.com/lit/ug/slau367a/slau367a.pdf)
+- [MSP430FR2355 Technical Reference Manual](https://www.ti.com/lit/ug/slau367a/slau367a.pdf)
+- [Code Composer Studio (CCS)](https://www.ti.com/tool/CCSTUDIO)
+- [MSP430Ware](https://www.ti.com/tool/MSPWARE)
+- [FreeRTOS](https://www.freertos.org/)
+- [MSP430 FreeRTOS Port](https://www.freertos.org/RTOS_MSP430_FreeRTOS.html)
+- [MSP430 Peripheral Driver Library Documentation](https://www.ti.com/lit/ug/slau272a/slau272a.pdf)
+  
 ## 01 - IDE Setup
 
 **Objective:** Set up the development environment for programming the MSP430FR235x.
